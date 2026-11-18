@@ -31,14 +31,14 @@ cli-version = "dev"
 patches-version = "dev"
 included-patches = "'Enable DCIM folders backup control'"
 
-[GNews-patched-up]
-app-name = "GNews"
+[GMaps-bearinmindcat]
+app-name = "GMaps"
 build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/maps"
 enable-update-checks = true
-patches-source = "docbt/patched-up"
+patches-source = "bearinmindcat/morphe-patches"
 cli-source = "MorpheApp/morphe-desktop"
-rv-brand = "patched-up"
+rv-brand = "bearinmindcat"
 cli-version = "dev"
 patches-version = "dev"
 
