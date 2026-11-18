@@ -42,6 +42,17 @@ rv-brand = "hxreborn"
 cli-version = "dev"
 patches-version = "dev"
 
+[Malwarebytes-rushiranpise]
+app-name = "Malwarebytes"
+build-mode = "both"
+uptodown-dlurl = "https://malwarebytes-anti-malware.en.uptodown.com/android"
+enable-update-checks = true
+patches-source = "rushiranpise/morphe-patches"
+cli-source = "MorpheApp/morphe-desktop"
+rv-brand = "rushiranpise"
+cli-version = "dev"
+patches-version = "dev"
+
 [Music-Morphe]
 app-name = "Music"
 build-mode = "both"
