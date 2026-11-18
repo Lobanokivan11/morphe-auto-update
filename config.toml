@@ -18,6 +18,17 @@ version = "experimental"
 cli-version = "dev"
 patches-version = "dev"
 
+[GPhotos-DeVanced]
+app-name = "GPhotos"
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
+enable-update-checks = true
+patches-source = "RookieEnough/De-Vanced"
+cli-source = "MorpheApp/morphe-desktop"
+rv-brand = "De-Vanced"
+cli-version = "dev"
+patches-version = "dev"
+
 [Music-Morphe]
 app-name = "Music"
 build-mode = "both"
