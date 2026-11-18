@@ -52,7 +52,6 @@ cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "rushiranpise"
 cli-version = "dev"
 patches-version = "dev"
-version = "latest"
 
 [Music-Morphe]
 app-name = "Music"
