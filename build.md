@@ -1,6 +1,7 @@
 GPhotos-DeVanced: 7.92.0.977185651  
 Music-Morphe (arm64-v8a): 9.46.51  
 Music-Morphe (arm-v7a): 9.46.51  
+NYTGames-rushiranpise: 6.50.1  
 Psiphon-hxreborn: 2.5.13  
 YouTube-Morphe: 21.46.522  
 
