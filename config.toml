@@ -45,7 +45,7 @@ patches-version = "dev"
 [NYTGames-rushiranpise]
 app-name = "NYTGames"
 build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/the-new-york-times-company/nytimes-crossword"
+direct-dlurl = "https://d.apkpure.com/b/XAPK/com.nytimes.crossword?versionCode=6427504"
 enable-update-checks = true
 patches-source = "rushiranpise/morphe-patches"
 cli-source = "MorpheApp/morphe-desktop"
