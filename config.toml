@@ -31,6 +31,17 @@ cli-version = "dev"
 patches-version = "dev"
 included-patches = "'Enable DCIM folders backup control'"
 
+[GNews-WayLo]
+app-name = "GNews"
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news"
+enable-update-checks = true
+patches-source = "way-lo/waylo-patches"
+cli-source = "MorpheApp/morphe-desktop"
+rv-brand = "Way-Lo"
+cli-version = "dev"
+patches-version = "dev"
+
 [Music-Morphe]
 app-name = "Music"
 build-mode = "both"
