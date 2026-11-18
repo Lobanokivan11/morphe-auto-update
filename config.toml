@@ -28,6 +28,7 @@ cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "De-Vanced"
 cli-version = "dev"
 patches-version = "dev"
+included-patches = "'Enable DCIM folders backup control'"
 
 [Music-Morphe]
 app-name = "Music"
