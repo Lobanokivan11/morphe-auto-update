@@ -18,4 +18,6 @@ Patches: MorpheApp/morphe-patches/patches-2.4.0-dev.2.mpp
 Patches: RookieEnough/De-Vanced/patches-1.6.4.mpp  
 [Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.6.4)
 
-CLI: MorpheApp/morphe-desktop/morphe-desktop-2.3.0-dev.2-all.jar    
+CLI: MorpheApp/morphe-desktop/morphe-desktop-2.3.0-dev.2-all.jar  
+Patches: rushiranpise/morphe-patches/patches-1.23.1.mpp  
+[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.23.1)  
