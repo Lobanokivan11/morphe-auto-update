@@ -45,6 +45,7 @@ patches-version = "dev"
 [Nova-rushiranpise]
 app-name = "Nova"
 build-mode = "both"
+arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instabridge-sweden-ab/nova-launcher"
 enable-update-checks = true
 patches-source = "rushiranpise/morphe-patches"
