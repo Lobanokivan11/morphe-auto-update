@@ -42,10 +42,10 @@ rv-brand = "hxreborn"
 cli-version = "dev"
 patches-version = "dev"
 
-[NYTGames-rushiranpise]
-app-name = "NYTGames"
+[Nova-rushiranpise]
+app-name = "Nova"
 build-mode = "both"
-direct-dlurl = "https://d.apkpure.com/b/XAPK/com.nytimes.crossword?versionCode=6427504"
+direct-dlurl = "https://www.apkmirror.com/apk/instabridge-sweden-ab/nova-launcher"
 enable-update-checks = true
 patches-source = "rushiranpise/morphe-patches"
 cli-source = "MorpheApp/morphe-desktop"
