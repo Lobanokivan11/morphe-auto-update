@@ -31,14 +31,14 @@ cli-version = "dev"
 patches-version = "dev"
 included-patches = "'Enable DCIM folders backup control'"
 
-[GMaps-bearinmindcat]
-app-name = "GMaps"
+[Psiphon-hxreborn]
+app-name = "Psiphon"
 build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/maps"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/psiphon-inc/psiphon-pro-the-internet-freedom-vpn"
 enable-update-checks = true
-patches-source = "bearinmindcat/morphe-patches"
+patches-source = "hxreborn/morphe-patches"
 cli-source = "MorpheApp/morphe-desktop"
-rv-brand = "bearinmindcat"
+rv-brand = "hxreborn"
 cli-version = "dev"
 patches-version = "dev"
 
