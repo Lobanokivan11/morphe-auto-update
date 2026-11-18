@@ -17,6 +17,7 @@ rv-brand = "Morphe"
 version = "experimental"
 cli-version = "dev"
 patches-version = "dev"
+included-patches = "'Network proxy'"
 
 [GPhotos-DeVanced]
 app-name = "GPhotos"
@@ -36,6 +37,7 @@ build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 enable-update-checks = true
+included-patches = "'Network proxy'"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "Morphe"
