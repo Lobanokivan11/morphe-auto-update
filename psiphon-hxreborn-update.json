@@ -1,6 +1,6 @@
 {
-  "version": "v2.5.13 (patches dev.3.mpp)",
-  "versionCode": 18,
-  "zipUrl": "https://github.com/Lobanokivan11/morphe-auto-update/releases/download/18/psiphon-hxreborn-module-v2.5.13-all.zip",
+  "version": "v2.5.13 (patches 1.84.0.mpp)",
+  "versionCode": 19,
+  "zipUrl": "https://github.com/Lobanokivan11/morphe-auto-update/releases/download/19/psiphon-hxreborn-module-v2.5.13-all.zip",
   "changelog": "https://raw.githubusercontent.com/Lobanokivan11/morphe-auto-update/update/build.md"
 }
