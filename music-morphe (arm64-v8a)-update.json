@@ -1,6 +1,6 @@
 {
-  "version": "v9.46.51 (patches dev.8.mpp)",
-  "versionCode": 24,
-  "zipUrl": "https://github.com/Lobanokivan11/morphe-auto-update/releases/download/24/music-morphe-module-v9.46.51-arm64-v8a.zip",
+  "version": "v9.46.51 (patches dev.9.mpp)",
+  "versionCode": 25,
+  "zipUrl": "https://github.com/Lobanokivan11/morphe-auto-update/releases/download/25/music-morphe-module-v9.46.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Lobanokivan11/morphe-auto-update/update/build.md"
 }
